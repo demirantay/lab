@@ -7,7 +7,7 @@ This is a single repo for hosting all of my bizarre experiments with various tec
 
 ## Backend
 
-- ...
+- [postgres admin](./posgres_admin) - This is an extremly small (200 LOC) project written for administrating postgresql databases from the command line. 
 
 ## Devops
 
