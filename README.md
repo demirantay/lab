@@ -3,7 +3,7 @@ This is a single repo for hosting all of my bizarre experiments with various tec
 
 ## Frontend
 
-- ...
+- [react_template_1](./react_template_1) - My first ever react template. It is extremly simple.
 
 ## Backend
 
